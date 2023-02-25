@@ -2,8 +2,8 @@ import React from 'react'
 import Typed from 'react-typed';
 const Hero = () => {
   return (
-    <div className='text-white flex flex-col w-full py-16 mt-24'>
-        <div className='max-w-[800px] mx-auto text-center h-screen'>
+    <div className='text-white flex flex-col w-full py-16 md:mt-24'>
+        <div className='max-w-[800px] mx-auto text-center'>
         <h4 className='text-sm text-[#00df9a] font-bold uppercase'>Growing with data analytics</h4>
          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-4 capitalize'>Grow with data.</h1>
          <div className='flex gap-2 items-center justify-center'>
